@@ -2,7 +2,7 @@
   Hi !👋 My name is Ismoilxo'ja Hamidov
   ===================================================================================================================================
 
-  Front-end developer
+  Front-end junior developer
   -------------------
 
   I have been learning coding since 2023. I am so passionate to learn web-development
