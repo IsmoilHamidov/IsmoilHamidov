@@ -5,7 +5,7 @@
   Front-end developer
   -------------------
 
-  I have been learning coding since 2023. I am so passionate to learn web-development
+  I am so passionate to learn web-development
 
   *   🌍  I'm based in Tashkent, Uzbekistan
   *   🎓  I am student of IT faculty at Mdist
