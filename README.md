@@ -9,7 +9,7 @@
 
   *   🌍  I'm based in Tashkent, Uzbekistan
   *   🎓  I am student of IT faculty at Mdist
-  *   🖥️  See my portfolio at https://ismoils-portfolio.netlify.app/
+  *   🖥️  See my portfolio at  https://ismoils-portfolio.netlify.app/
   *   🧠  Currently, I'm occupied with enhancing my knowlegde on hands-on projects
   *   🤝  I'm open to collaborating on intersiting team projects 
 
