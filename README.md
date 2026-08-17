@@ -1,75 +1,110 @@
+# Hi, I'm Ismoilkhuja Hamidov 👋
 
-  Hi !👋 My name is Ismoilxo'ja Hamidov
-  ===================================================================================================================================
+### Frontend Developer | Data Analytics
 
-  Front-end developer
-  -------------------
+I’m a software developer with hands-on experience building web applications both independently and as part of development teams. My work spans frontend development, data analysis, and data visualization, with a focus on building practical, maintainable, and user-oriented solutions.
 
-  I am so passionate to learn web-development
+* 📍 Based in **Tashkent, Uzbekistan**
+* 🎓 IT student at **MDIST**
+* 💻 Experienced in developing web projects both **independently and collaboratively**
+* 📊 Working with **data analysis, transformation, and visualization**
+* 🌐 Portfolio: **https://ismoils-porftolio.vercel.app/**
+* 📫 Email: **[hamidovismoil004@gmail.com](mailto:hamidovismoil004@gmail.com)**
 
-  *   🌍  I'm based in Tashkent, Uzbekistan
-  *   🎓  I am student of IT faculty at Mdist
-  *   🖥️  See my portfolio at  https://ismoils-porftolio.vercel.app/
-  *   🧠  Currently, I'm occupied with enhancing my knowlegde on hands-on projects
-  *   🤝  I'm open to collaborating on intersiting team projects 
+---
 
-  Skills
-  -------------------
-  <p align="left">
- <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="css3 logo"  /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
-</a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" />
-</a>
-  </p>
-                      
+## 🛠️ Technologies & Tools
 
-You can contact me on
-  -------------------
-  <div align="left">
-    <a href="https://www.linkedin.com/in/ismoilxo-ja-hamidov-723b66314/?trk=eml-email_interested_candidates_activation_single_01-profile_prompt-0-mercado" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
-    <a href="mailto:ismoilxojahamidov@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
-    <a href="https://www.linkedin.com/in/ismoilxo-ja-hamidov-723b66314/?trk=eml-email_interested_candidates_activation_single_01-profile_prompt-0-mercado" target="_blank" rel="noreferrer"></a>
-    <a href="http://www.instagram.com/ismoil_1775" target="_blank" rel="noreferrer"> 
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
-    </a>
-    <a href="https://www.linkedin.com/in/ismoilxo-ja-hamidov-723b66314/?trk=eml-email_interested_candidates_activation_single_01-profile_prompt-0-mercado" target="_blank" rel="noreferrer"></a>
-    <a href="https://t.me/Ismoil_1775" target="_blank" rel="noreferrer"> 
-      <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088CC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"/>
-    </a>
+### Frontend Development
 
-  </div>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+  </a>
+</p>
 
-###
-###
-###
-  <!-- <div align="center">
-Percentage of Using Languages 
-  -------------------
-    <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+### Data Analytics
 
-    
-  <img src="https://github-readme-stats.vercel.app/api?username=IsmoilHamidov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40" alt="Power BI"/>
+  </a>
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsmoilHamidov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  </div> -->
+---
 
+## 📊 Data Analytics
 
-  ###
+My data analytics work focuses on transforming raw data into structured insights through:
 
- 
+* **Python** for data processing and analysis
+* **NumPy** for numerical computing
+* **Pandas** for data manipulation and transformation
+* **MySQL** for querying and managing relational data
+* **Power BI** for interactive dashboards, reporting, and data visualization
 
+---
 
+## 💼 Professional Focus
 
+My current technical focus combines **frontend engineering and data analytics**, with an emphasis on developing practical solutions, working with real-world datasets, and delivering clear, reliable user experiences.
 
-  <br clear="both">
+I’m interested in contributing to **product-oriented teams and data-driven projects** where software development, analytics, and business requirements come together.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ismoilxo-ja-hamidov-723b66314/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hamidovismoil004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/ismoil_1775" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram"/>
+  </a>
+  <a href="https://t.me/Ismoil_1775" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="Telegram"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building practical solutions through software development and data.</i>
+</p>
