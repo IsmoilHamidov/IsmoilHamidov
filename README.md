@@ -1,4 +1,4 @@
-# Hi, I'm Ismoilkhuja Hamidov 👋
+# Hi, I'm Ismoilkhuja 
 
 ### Data Analytics | Frontend Developer
 
