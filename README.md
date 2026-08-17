@@ -116,7 +116,7 @@ I’m particularly interested in **data-driven products and software solutions**
 
 ---
 
-## 🤝 Let's Connect
+## Get in Touch
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ismoilxo-ja-hamidov-723b66314/" target="_blank" rel="noreferrer">
