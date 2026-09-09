@@ -5,7 +5,7 @@
 I’m a software developer with hands-on experience building web applications both independently and as part of development teams. My experience spans data analysis, data transformation, data visualization, and modern frontend development, with a focus on building practical, maintainable, and user-oriented solutions.
 
 * 📍 Based in **Tashkent, Uzbekistan**
-* 🎓 IT student at **MDIST**
+* 🎓 **IT Faculty alumnus of Bangor University**, delivered through **MDIST**
 * 💻 Experience developing web projects both **independently and collaboratively**
 * 📊 Focused on **data analysis, transformation, and visualization**
 * 🌐 Portfolio: **https://ismoils-porftolio.vercel.app/**
